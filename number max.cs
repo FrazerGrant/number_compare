@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ConsoleApp4
+namespace numberMax
 {
     class Program
     {
